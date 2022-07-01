@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App d-flex justify-content-center align-items-center" style={{ backgroundColor: 'hsl(217, 54%, 11%)',minHeight: `${window.innerHeight}px`}}>
         <CardComponent style={{ margin:'auto' }} />
-      
     </div>
   );
 }
